@@ -1,5 +1,3 @@
----
-
 # 🧠 Simulador de Portas Lógicas em Python (PySide6)
 
 Simulador gráfico de circuitos digitais compatível com:
