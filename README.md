@@ -1,3 +1,4 @@
+[English](https://github.com/0Darkn/Logic-Gate-Simulator-v0/blob/main/en-README.md)
 # 🧠 Simulador de Portas Lógicas em Python (PySide6)
 
 Simulador gráfico de circuitos digitais compatível com:
